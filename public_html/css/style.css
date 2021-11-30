@@ -8,21 +8,42 @@ h1 {
 header {
     background: #666666;
     text-align: center;
+    font-family: Courier, Impact, Arial;
+    font-size: 150%;
 }
+
 
 body {
     background-color: lightblue;
+    font-family: Courier, Impact, Arial;
+   
+
   }
 
+div {
+    width: 30%;
+    background:#00fFFF;
+    height: 400px;
+    display:inline-block;
+    
+    
+
+}
 h2 {
     text-align: center;
+    font-family: Courier, Impact, Arial;
+    
 }
 
 h3 {
         text-align: center;
+        font-family: Courier, Impact, Arial;
+        
 }
 footer {
     background: lightblue;
     text-align: center;
+    font-family: Courier, Impact, Arial;
+    
 
 }
