@@ -10,9 +10,19 @@ header {
     text-align: center;
 }
 
+body {
+    background-color: lightblue;
+  }
 
+h2 {
+    text-align: center;
+}
+
+h3 {
+        text-align: center;
+}
 footer {
-    background: #FFFFFF;
+    background: lightblue;
     text-align: center;
 
 }
