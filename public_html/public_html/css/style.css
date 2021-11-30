@@ -1,0 +1,28 @@
+h1 {
+    background: #b3b3b3;
+    font-size: 150%;
+    color: #FFFFFF;
+    font-family: Courier, Impact, Arial;
+}
+
+header {
+    background: #666666;
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+  }
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+        text-align: center;
+}
+footer {
+    background: lightblue;
+    text-align: center;
+
+}
